@@ -1,24 +1,34 @@
-# README
+## Active Video
+A one-click video upload feature, utilizing ActiveStorage for efficient file management and storage. Developed comprehensive test coverage using RSpec to ensure functionality and reliability.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Technology 
 
-* Ruby version
+Here are the technologies used in this project.
 
-* System dependencies
+* Ruby on Rails
+* Rspec
+* ActiveStorage  
 
-* Configuration
+## Services Used
 
-* Database creation
+* Github
 
-* Database initialization
+## Getting started
 
-* How to run the test suite
+To run the project:
+rails s
 
-* Services (job queues, cache servers, search engines, etc.)
+## How to use
 
-* Deployment instructions
+## Upload a video from your computer.
 
-* ...
+![Initial image](https://github.com/dev99pedro/activeVideo/blob/main/app/assets/images/catvideo.png)
+
+
+## Links
+  - Repository: https://github.com/dev99pedro/activeVideo
+  ## Authors
+
+  * **Pedro Ascari Azevedo** 
+  Thanks to visiting me and good coding!
