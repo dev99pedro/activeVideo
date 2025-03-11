@@ -21,7 +21,7 @@ rails s
 
 ## How to use
 
-## Upload a video from your computer.
+Upload a video from your computer.
 
 ![Initial image](https://github.com/dev99pedro/activeVideo/blob/main/app/assets/images/catvideo.png)
 
